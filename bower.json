@@ -1,0 +1,38 @@
+{
+  "name": "silk-companion",
+  "version": "0.1.0",
+  "homepage": "https://github.com/T1st3/silk-companion",
+  "description": "Silk-Companion icon set",
+  "keywords": [
+    "icon",
+    "silk",
+    "img",
+    "famfamfam",
+    "png",
+    "gif"
+  ],
+  "license": "MIT",
+  "authors": [
+    "t1st3 <contact@tiste.org> (http://www.tiste.org/)"
+  ],
+  "main": [
+    "./dist"
+  ],
+  "ignore": [
+    "bower_components",
+    ".bowerrc",
+    "node_modules",
+    "package.json",
+    "composer.json",
+    "composer.lock",
+    ".git",
+    ".gitignore",
+    ".gitattributes",
+    "README.md",
+    ".editorconfig",
+    ".travis.yml",
+    ".npmignore",
+    "src"
+  ],
+  "dependencies": {}
+}

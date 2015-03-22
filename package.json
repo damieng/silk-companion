@@ -1,0 +1,41 @@
+{
+  "name": "silk-companion",
+  "version": "0.1.0",
+  "homepage": "https://github.com/T1st3/silk-companion",
+  "description": "Silk-Companion icon set",
+  "keywords": [
+    "icon",
+    "silk",
+    "img",
+    "famfamfam",
+    "png",
+    "gif"
+  ],
+  "license": "MIT",
+  "author": "t1st3 <contact@tiste.org> (http://www.tiste.org/)",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/T1st3/silk-companion.git"
+  },
+  "bugs": {
+    "url": "https://github.com/T1st3/silk-companion/issues"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "chalk": "~1.0",
+    "cowsay": "~1.0",
+    "del": "~1.1",
+    "figlet": "~1.1",
+    "gulp": "~3.8",
+    "gulp-imagemin": "~2.2",
+    "gulp-minify-css": "~1.0",
+    "gulp-notify": "~2.2",
+    "gulp-rename": "~1.2",
+    "node-spritesheet": "~0.4",
+    "qrcode-terminal": "~0.9",
+    "somebody": "~2.0"
+  }
+}
