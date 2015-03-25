@@ -3,57 +3,17 @@ silk-companion
 
 [![NPM version](https://img.shields.io/npm/v/silk-companion.svg)](https://www.npmjs.org/package/silk-companion)
 [![Bower version](https://img.shields.io/bower/v/silk-companion.svg)](http://bower.io/search/?q=silk-companion)
-[![Packagist version](https://img.shields.io/packagist/v/t1st3/silk-companion.svg)](https://packagist.org/packages/t1st3/silk-companion)
+[![Packagist version](https://img.shields.io/packagist/v/damieng/silk-companion.svg)](https://packagist.org/packages/damieng/silk-companion)
+
+
+
+
+
 
 
 About
 ----------
 
-The `Silk-Companion` icon pack, as available on [famfamfam website](http://www.famfamfam.com/lab/icons/silk/).
-
-All credits for these icons go to their original author: Damien Guard (damieng@gmail.com), and Mark James (mjames@gmail.com) for the original FamFamFam-Silk icon set.
-
-The aim of this project is to make this icon pack available through various package managers, such as:
-
-- [NPM](https://npmjs.org)
-- [Bower](http://bower.io)
-- [Packagist](https://packagist.org)
-
-
-All icons are supplied in PNG format.
-
-
-
-CSS spritesheets
-----------
-
-You can insert the icons directly into your HTML with a common IMG tag:
-
-```
-    <img alt="Delete" src="dist/png/folder_connect.png" width="16" height="16">
-```
-
-
-In addition to the icons by themselves, this project also ships a CSS spritesheet for the icon-pack. This spritesheet allows to load the entire icon-pack in just 1 image, and thus reduce HTTP calls.
-
-This is what it actually looks:
-
-![Spritesheet](https://raw.githubusercontent.com/T1st3/silk-companion/master/dist/sprite/silk-companion.png)
-
-
-All the positioning of the icons inside this alone image is made through CSS, which allows you to just add block-type tags with the proper class and get the same result:
-
-```
-    <div class="silk-companion folder_connect"></div>
-```
-
-Just remember to add the CSS stylesheet to the HEAD of your HTML page!
-
-
-
-
-Original readme (from author of the icons)
-----------
 
 Silk companion icon set #1 - "More Silk!"
 Last updated: 19 November 2007
@@ -114,6 +74,34 @@ contact mjames@gmail.com
 
 
 
+CSS spritesheets
+----------
+
+You can insert the icons directly into your HTML with a common IMG tag:
+
+```
+    <img alt="Delete" src="dist/png/folder_connect.png" width="16" height="16">
+```
+
+
+In addition to the icons by themselves, this project also ships a CSS spritesheet for the icon-pack. This spritesheet allows to load the entire icon-pack in just 1 image, and thus reduce HTTP calls.
+
+This is what it actually looks:
+
+![Spritesheet](https://raw.githubusercontent.com/damieng/silk-companion/master/dist/sprite/silk-companion.png)
+
+
+All the positioning of the icons inside this alone image is made through CSS, which allows you to just add block-type tags with the proper class and get the same result:
+
+```
+    <div class="silk-companion folder_connect"></div>
+```
+
+Just remember to add the CSS stylesheet to the HEAD of your HTML page!
+
+
+
+
 About the rest (all this repository but the icons)
 ----------
 
@@ -147,7 +135,7 @@ bower install silk-companion
 
 **Composer / Packagist**
 
-[silk-companion on Packagist](https://packagist.org/packages/t1st3/silk-companion)
+[silk-companion on Packagist](https://packagist.org/packages/damieng/silk-companion)
 
 
 
@@ -155,8 +143,8 @@ bower install silk-companion
 Dev dependencies and build status
 ----------
 
-[![Dependency Status](https://img.shields.io/david/dev/T1st3/silk-companion.svg)](https://david-dm.org/t1st3/silk-companion)
-[![Build Status](https://img.shields.io/travis/T1st3/silk-companion.svg)](https://travis-ci.org/T1st3/silk-companion)
+[![Dependency Status](https://img.shields.io/david/dev/damieng/silk-companion.svg)](https://david-dm.org/damieng/silk-companion)
+[![Build Status](https://img.shields.io/travis/damieng/silk-companion.svg)](https://travis-ci.org/damieng/silk-companion)
 
 
 

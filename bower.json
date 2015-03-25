@@ -1,7 +1,7 @@
 {
   "name": "silk-companion",
   "version": "0.1.1",
-  "homepage": "https://github.com/T1st3/silk-companion",
+  "homepage": "https://github.com/damieng/silk-companion",
   "description": "Silk-Companion icon set",
   "keywords": [
     "icon",
@@ -13,6 +13,7 @@
   ],
   "license": "MIT",
   "authors": [
+    "damieng <damieng@gmail.com> (http://damieng.com/)",
     "t1st3 <contact@tiste.org> (http://www.tiste.org/)"
   ],
   "main": [

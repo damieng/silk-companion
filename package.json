@@ -1,7 +1,7 @@
 {
   "name": "silk-companion",
   "version": "0.1.1",
-  "homepage": "https://github.com/T1st3/silk-companion",
+  "homepage": "https://github.com/damieng/silk-companion",
   "description": "Silk-Companion icon set",
   "keywords": [
     "icon",
@@ -12,13 +12,17 @@
     "gif"
   ],
   "license": "MIT",
-  "author": "t1st3 <contact@tiste.org> (http://www.tiste.org/)",
+  "author": "damieng <damieng@gmail.com> (http://damieng.com/)",
+  "contributors": [{
+    "name": "t1st3",
+    "email": "contact@tiste.org"
+  }],
   "repository": {
     "type": "git",
-    "url": "git://github.com/T1st3/silk-companion.git"
+    "url": "git://github.com/damieng/silk-companion.git"
   },
   "bugs": {
-    "url": "https://github.com/T1st3/silk-companion/issues"
+    "url": "https://github.com/damieng/silk-companion/issues"
   },
   "engines": {
     "node": ">= 0.10.0"
