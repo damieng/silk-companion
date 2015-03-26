@@ -1,6 +1,6 @@
 {
   "name": "t1st3/silk-companion",
-  "homepage": "https://github.com/T1st3/silk-companion",
+  "homepage": "https://github.com/damieng/silk-companion",
   "description": "Silk-Companion icon set",
   "keywords": [
     "icon",
@@ -26,7 +26,7 @@
     }
   ],
   "support": {
-    "issues": "https://github.com/T1st3/silk-companion/issues/"
+    "issues": "https://github.com/damieng/silk-companion/issues/"
   },
   "type": "library",
   "extra": {

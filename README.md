@@ -80,7 +80,7 @@ CSS spritesheets
 You can insert the icons directly into your HTML with a common IMG tag:
 
 ```
-    <img alt="Delete" src="dist/png/folder_connect.png" width="16" height="16">
+    <img alt="Connect" src="dist/png/folder_connect.png" width="16" height="16">
 ```
 
 

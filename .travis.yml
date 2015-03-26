@@ -10,4 +10,4 @@ deploy:
     secure: d3SxBJBp/6ILsBhQ2rG9zCsI2OKwQ/odHmPKexc09zOZQbmu401qge34xPhIHJq0HwhnuYx2wYBUKwC3f7C/t2pXWR9lqLcyBE+Z0AoZhTL9QaEX5hFOE+glqhsJHTR5br4dNEHlyhPjzyrag5lMAEFneNNt1RcARpC/VxTtAYo=
   on:
     tags: true
-    repo: T1st3/silk-companion
+    repo: damieng/silk-companion
