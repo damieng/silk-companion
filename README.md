@@ -23,6 +23,8 @@ Damien Guard
 http://www.damieng.com/icons/silkcompanion
 _________________________________________
 
+All packaging goodness by T1st3 https://github.com/T1st3
+
 This work is licensed under a
 Creative Commons Attribution 2.5 License.
 [ http://creativecommons.org/licenses/by/2.5/ ]
