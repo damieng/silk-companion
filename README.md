@@ -20,7 +20,7 @@ Last updated: 19 November 2007
 
 _________________________________________
 Damien Guard
-http://www.damieng.com/icons/silkcompanion
+http://damieng.com/creative/icons/silk-companion-1-icons
 
 Packaging by T1st3
 https://github.com/T1st3
