@@ -6,7 +6,8 @@ silk-companion
 [![Packagist version](https://img.shields.io/packagist/v/damieng/silk-companion.svg)](https://packagist.org/packages/damieng/silk-companion)
 
 
-
+[![Dependency Status](https://img.shields.io/david/dev/damieng/silk-companion.svg)](https://david-dm.org/damieng/silk-companion)
+[![Build Status](https://img.shields.io/travis/damieng/silk-companion.svg)](https://travis-ci.org/damieng/silk-companion)
 
 
 
@@ -144,11 +145,42 @@ bower install silk-companion
 
 
 
-Dev dependencies and build status
+
+Build (the whole project or your custom project)
 ----------
 
-[![Dependency Status](https://img.shields.io/david/dev/damieng/silk-companion.svg)](https://david-dm.org/damieng/silk-companion)
-[![Build Status](https://img.shields.io/travis/damieng/silk-companion.svg)](https://travis-ci.org/damieng/silk-companion)
+
+We use [Gulp](http://gulpjs.com/) to build the project, so if you want to re-build or customize this project, you'll need Gulp.
+
+After gulp is installed, and your CLI is pointed to your work directory, first install the dependencies:
+
+```
+     npm install
+```
+
+
+then, you can run the `gulp build` task to build the project:
+
+
+```
+     gulp build
+```
+
+
+
+
+**What the build task does?**
+
+First, it takes PNG files from the `src` folder, and pastes them to the `dist` folder.
+
+Then it creates a spritesheet from the PNG images located in the `src` folder, and thus creates the `sprite` folder in `dist`.
+
+If, for example you just want `bell_silver` and `page_break` icons in a spritesheet, you just have to fork this project, point your CLI to the working directory, 
+empty the `src` directory, except `bell_silver` and `page_break` icons, and then run the `gulp build` task.
+
+You'll get the proper spritesheet and copies of the icons directly in the `dist` folder.
+
+
 
 
 
