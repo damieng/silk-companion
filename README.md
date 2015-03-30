@@ -28,9 +28,12 @@ https://github.com/T1st3
 _________________________________________
 
 
-This work is licensed under a
+This work is dual licensed under
 Creative Commons Attribution 2.5 License.
 [ http://creativecommons.org/licenses/by/2.5/ ]
+and
+Creative Commons Attribution 3.0 License.
+[ http://creativecommons.org/licenses/by/3.0/ ]
 
 The FamFamFam Silk icon set is a very large,
 consistent set of well-drawn icons that has
