@@ -8,9 +8,9 @@
 [![Build Status](https://img.shields.io/travis/damieng/silk-companion.svg)](https://travis-ci.org/damieng/silk-companion)
 
 ## About
-[Silk companion icon set #1 - "More Silk!"](http://damieng.com/creative/icons/silk-companion-1-icons])
+[Silk companion icon set #1 - "More Silk!"](http://damieng.com/creative/icons/silk-companion-1-icons)
 Last updated 19 November 2007
-[https://github.com/T1st3](Packaging by T1st3)
+[Packaging by T1st3](https://github.com/T1st3)
 
 ## Description
 The FamFamFam Silk icon set is a very large, consistent set of well-drawn icons that has proven to be popular with both applications and web sites.
