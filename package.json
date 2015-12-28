@@ -13,10 +13,12 @@
   ],
   "license": "MIT",
   "author": "damieng <damieng@gmail.com> (http://damieng.com/)",
-  "contributors": [{
-    "name": "t1st3",
-    "email": "contact@tiste.org"
-  }],
+  "contributors": [
+    {
+      "name": "t1st3",
+      "email": "contact@tiste.org"
+    }
+  ],
   "repository": {
     "type": "git",
     "url": "git://github.com/damieng/silk-companion.git"
@@ -35,7 +37,7 @@
     "figlet": "~1.1",
     "gulp": "~3.9",
     "gulp-imagemin": "~2.4",
-    "gulp-minify-css": "~1.2",
+    "gulp-minify-css": "~1.2.3",
     "gulp-notify": "~2.2",
     "gulp-rename": "~1.2",
     "node-spritesheet": "~0.4",
