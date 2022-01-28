@@ -4,7 +4,6 @@
 [![Bower version](https://img.shields.io/bower/v/silk-companion.svg)](http://bower.io/search/?q=silk-companion)
 [![Packagist version](https://img.shields.io/packagist/v/damieng/silk-companion.svg)](https://packagist.org/packages/damieng/silk-companion)
 
-[![Dependency Status](https://img.shields.io/david/dev/damieng/silk-companion.svg)](https://david-dm.org/damieng/silk-companion)
 [![Build Status](https://img.shields.io/travis/damieng/silk-companion.svg)](https://travis-ci.org/damieng/silk-companion)
 
 ## About
